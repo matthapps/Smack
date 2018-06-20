@@ -139,6 +139,8 @@
 
 #import <UIKit/UIKit.h>
 
+@class GradientView;
+
 @class SWRevealViewController;
 @protocol SWRevealViewControllerDelegate;
 
